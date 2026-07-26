@@ -1,0 +1,25 @@
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Build artifacts
+*.o
+*.out
+a.out
+*.dSYM/
+
+# Runtime outputs from local experiments
+cpu-api/data.input
+
+# Legacy bare binaries (prefer make → *.out)
+cpu-api/fork-variable
+cpu-api/wait-test
+cpu-api/pipe
+cpu-api/pipe-intro
+cpu-api/concurrent-write-file
