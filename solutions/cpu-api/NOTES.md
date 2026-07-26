@@ -2,9 +2,13 @@
 
 Book chapter: [Process API](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)
 
+Official materials (simulators / README): repo root `cpu-api/`.  
+This directory: personal exercises only.
+
 Build all local exercises:
 
 ```sh
+cd solutions/cpu-api   # from repo root
 make
 ```
 

@@ -15,11 +15,16 @@ a.out
 *.dSYM/
 
 # Runtime outputs from local experiments
-cpu-api/data.input
+solutions/cpu-api/data.input
 
-# Legacy bare binaries (prefer make → *.out)
+# Legacy bare binaries under old paths (prefer make → *.out)
 cpu-api/fork-variable
 cpu-api/wait-test
 cpu-api/pipe
 cpu-api/pipe-intro
 cpu-api/concurrent-write-file
+solutions/cpu-api/fork-variable
+solutions/cpu-api/wait-test
+solutions/cpu-api/pipe
+solutions/cpu-api/pipe-intro
+solutions/cpu-api/concurrent-write-file

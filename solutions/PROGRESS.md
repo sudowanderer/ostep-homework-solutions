@@ -3,6 +3,8 @@
 Personal tracking for OSTEP homework solutions.
 Upstream simulators: [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework).
 
+All personal files are under `solutions/` (this tree).
+
 | Chapter | Status | Notes |
 |---------|--------|-------|
 | cpu-intro | not started | |
