@@ -9,6 +9,7 @@ All personal files are under `solutions/` (this tree).
 |---------|--------|-------|
 | cpu-intro | not started | |
 | cpu-api | in progress | [cpu-api/NOTES.md](cpu-api/NOTES.md) |
+| direct-execution | in progress | [direct-execution/NOTES.md](direct-execution/NOTES.md) |
 | cpu-sched | not started | |
 | threads-intro | not started | |
 | threads-api | not started | |
