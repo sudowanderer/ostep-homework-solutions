@@ -28,3 +28,7 @@ solutions/cpu-api/wait-test
 solutions/cpu-api/pipe
 solutions/cpu-api/pipe-intro
 solutions/cpu-api/concurrent-write-file
+solutions/vm-intro/memory-user
+solutions/direct-execution/00timer_precision
+solutions/direct-execution/syscall_cost
+solutions/direct-execution/timer_precision

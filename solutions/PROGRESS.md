@@ -17,7 +17,8 @@ All personal files are under `solutions/` (this tree).
 | threads-cv | not started | |
 | threads-bugs | not started | |
 | threads-sema | not started | |
-| vm-* | not started | |
+| vm-intro | in progress | [vm-intro/NOTES.md](vm-intro/NOTES.md) |
+| vm-* (other) | not started | |
 | file-* | not started | |
 
 ## Status legend
