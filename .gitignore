@@ -32,3 +32,6 @@ solutions/vm-intro/memory-user
 solutions/direct-execution/00timer_precision
 solutions/direct-execution/syscall_cost
 solutions/direct-execution/timer_precision
+solutions/threads-locks/timer
+solutions/threads-locks/counter
+solutions/threads-locks/approximate_counter
