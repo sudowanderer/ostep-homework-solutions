@@ -35,3 +35,4 @@ solutions/direct-execution/timer_precision
 solutions/threads-locks/timer
 solutions/threads-locks/counter
 solutions/threads-locks/approximate_counter
+solutions/vm-tlb/tlb
